@@ -37,6 +37,42 @@ custom_channels:
 ssl_verify: false
 ```
 
+# 其它链接  
+rcc github https://github.com/robocorp/rcc/blob/v17.12.0/docs/recipes.md  
+.condarc https://docs.conda.io/projects/conda/en/23.11.x/user-guide/configuration/use-condarc.html  
+micromamba https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html  
+robot framework 如何安装 https://github.com/robotframework/robotframework/blob/v6.1.1/INSTALL.rst  
+robot framework 用户指南 v6.1.1  https://robotframework.org/robotframework/6.1.1/RobotFrameworkUserGuide.html  
+robot framework 用户指南 v6.1.1 github https://github.com/robotframework/robotframework/blob/v6.1.1/doc/userguide/README.rst  
+Robot Framework Guides https://docs.robotframework.org/docs  
+Robot Framework Guides Github https://github.com/MarketSquare/robotframeworkguides  
+此项目从这篇教程而来 https://docs.robotframework.org/docs/getting_started/rpa  
+
+Robocorp:  
+https://github.com/robocorp/robocorp  
+https://github.com/robocorp/robo  
+https://github.com/robocorp/robo/blob/robocorp-1.3.0/docs/guides/using-with-rcc.md  
+https://github.com/robocorp/rcc  
+
+防火墙内环境变量设置 https://robocorp.com/docs/troubleshooting/firewall-and-proxies  
+template-python https://github.com/robocorp/template-python  
+
+# 目前版本  
+日期 2024-01-07  
+```  
+python --version
+Python 3.11.4
+
+robot --version
+Robot Framework 6.1.1 (Python 3.11.4 on win32)
+
+rcc --version
+v17.12.0
+
+
+```
+
+
 
 
 # 以下是rcc生成的项目的原始readme
