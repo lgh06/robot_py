@@ -16,5 +16,5 @@ dependencies:
     - robocorp-browser==2.2.1     # https://pypi.org/project/robocorp-browser
 
 ssl_verify: false
-http_proxy: socks://127.0.0.1:11223
-https_proxy: socks://127.0.0.1:11223
+# http_proxy: socks://127.0.0.1:11223
+# https_proxy: socks://127.0.0.1:11223
