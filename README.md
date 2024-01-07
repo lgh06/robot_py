@@ -72,6 +72,11 @@ v17.12.0
 
 ```
 
+# Github  
+git config http.sslVerify false
+Watt Toolkit  
+
+
 
 
 
