@@ -16,7 +16,7 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ## conda  
-C:\Users\Administrator\.condarc  
+`C:\Users\Administrator\.condarc`  
 ```
 channels:
   - defaults
@@ -73,9 +73,9 @@ v17.12.0
 ```
 
 # Github  
-git config http.sslVerify false
+git config http.sslVerify false  
 Watt Toolkit  
-
+steam302  
 
 
 
