@@ -1,6 +1,6 @@
 # Robot Framework and Robocorp's RPA framework  
 RCC is a command line tool.  
-anaconda / miniconda / conda 是封装了科学计算常用的包管理器
+anaconda / miniconda / conda 是封装了科学计算常用的包管理器  
 mamba / micromamba 是conda的C++ 最小化实现，除了命令是mamba，其他功能完全一致。
 
 # mirror 与 环境变量  
