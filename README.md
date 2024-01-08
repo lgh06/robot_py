@@ -53,6 +53,8 @@ https://github.com/robocorp/robocorp
 https://github.com/robocorp/robo  
 https://github.com/robocorp/robo/blob/robocorp-1.3.0/docs/guides/using-with-rcc.md  
 https://github.com/robocorp/rcc  
+https://robocorp.com/docs/courses/beginners-course  
+https://robocorp.com/docs/courses/beginners-course-python  
 
 防火墙内环境变量设置 https://robocorp.com/docs/troubleshooting/firewall-and-proxies  
 template-python https://github.com/robocorp/template-python  
